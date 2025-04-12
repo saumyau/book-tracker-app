@@ -1,0 +1,4 @@
+com\example\demo\BookTrackerApplication.class
+com\example\demo\Book.class
+com\example\demo\BookRepository.class
+com\example\demo\BookController.class
