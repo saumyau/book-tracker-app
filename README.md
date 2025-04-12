@@ -1,10 +1,10 @@
-# 📚 Book Tracker App
+# Book Tracker App
 
 A full-stack Book Tracker app with a **React frontend** and **Spring Boot backend** that allows users to track books (add, view, delete, etc.). Data is stored in an in-memory H2 database (or can be configured to use MySQL/PostgreSQL).
 
 ---
 
-## 🎯 Overall Goal
+## Overall Goal
 
 You're building a full-stack Book Tracker app that:
 - Lets users **track books** (add, view, delete, etc.)
@@ -13,9 +13,9 @@ You're building a full-stack Book Tracker app that:
 
 ---
 
-## 📦 Backend: Spring Boot (`book-tracker-backend`)
+## Backend: Spring Boot (`book-tracker-backend`)
 
-### 🔑 Key Files and Their Purpose
+### Key Files and Their Purpose
 
 | File / Folder                    | Purpose                                                                 |
 |----------------------------------|-------------------------------------------------------------------------|
@@ -35,9 +35,9 @@ You're building a full-stack Book Tracker app that:
 
 ---
 
-## 💻 Frontend: React (`book-tracker-frontend`)
+## Frontend: React (`book-tracker-frontend`)
 
-### 🔑 Key Files and Their Purpose
+### Key Files and Their Purpose
 
 | File / Folder                  | Purpose                                                                   |
 |-------------------------------|---------------------------------------------------------------------------|
